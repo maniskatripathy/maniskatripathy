@@ -7,6 +7,6 @@
 - 🤔 I’m looking for help with CSS
 - 💬 Ask me about anything
 - 📫 How to reach me: [Email](maniskatripathy@gmail.com)
--                      [Facebook](https://www.facebook.com/profile.php?id=100013227934396)
+-                      [Facebook](https://www.facebook.com/people/Maniska-Tripathy/100013227934396/)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am very new to coding!
