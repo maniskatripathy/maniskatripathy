@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently a student of CodingNinjas
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on none at the moment
 - 🤔 I’m looking for help with CSS
 - 💬 Ask me about anything
